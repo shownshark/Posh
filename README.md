@@ -1,2 +1,6 @@
 # Posh
 Just another repository
+
+Buna ziua, lume!
+Imi doresc o schimbare a procesului de initiere a lenosilor si a celor descurajati de viata, sa inceapa sa creada in ei...
+Primul pas e mai greu, restul sunt doar miscari de trepte...
